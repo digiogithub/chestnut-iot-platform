@@ -1,3 +1,8 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [Intro](./intro.md)
+- [Architecture](./architecture.md)
+- [Hub](./hub.md)
+- [Backend](./backend.md)
+- [Backoffice](./backoffice.md)
+- [Mobile application](./mobile.md)
